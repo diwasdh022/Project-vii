@@ -1,0 +1,14 @@
+{
+  "name": "socket.io-ambulance-tracking",
+  "version": "1.0.2",
+  "description": "Ambulance tracking using socket.io",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^4.16.4",
+    "socket.io": "^2.2.0"
+  }
+}
